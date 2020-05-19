@@ -464,7 +464,7 @@ display: none;
    }
 }
 
-.section_wrap {
+.section__wrap {
     margin-top: 100px;
     width: 1110px;
     display: -webkit-box;
@@ -476,14 +476,14 @@ display: none;
 }
 
 @media screen and (max-width: 1200px) {
-    .section_wrap {
+    .section__wrap {
        margin: 20px;
        display: block;
     }
 }    
 
 @media screen and (max-width: 500px) {
-    .section_wrap {
+    .section__wrap {
        margin: 0;
     }
 } 
